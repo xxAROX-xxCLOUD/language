@@ -1,4 +1,6 @@
 {
 	"name": "English",
-	"key": "value"
+	"message.onlyForPlayers": "Only for players!",
+	"disconnect.no_lobby_found": "§cNo lobby found!",
+	"message.connection": "§7You are connected to proxy §j{proxy_address} §7on server §j{server_id}§7(§t{server_name}§7)"
 }
