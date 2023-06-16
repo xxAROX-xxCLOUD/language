@@ -131,6 +131,7 @@
   "ui.cloud.template_inspect.start": "Start a server",
   "ui.cloud.template_inspect.stop_all": "Stop all servers",
   "message.cloud.party.invited": "§a§l»§r§7 You invited {gamertag}!",
+  "message.cloud.party.invitation": "§a§l»§r§7 You have been invited to {gamertag}'s party!",
   "message.cloud.party.invited.other": "§a§l»§r§7 {leader_gamertag} invited {gamertag} to the party!",
   "message.cloud.party.disbanded": "§a§l»§r§7 Your party was disbanded!",
   "message.cloud.party.left": "§a§l»§r§7 You left the party!",
