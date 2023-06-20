@@ -140,6 +140,7 @@
   "message.cloud.party.join.others": "§a§l»§r§7 {gamertag} joined the party!",
   "message.cloud.party.kick": "§a§l»§r§7 You kicked {gamertag} out of the party!",
   "message.cloud.party.kick.others": "§a§l»§r§7 {leader_gamertag} kicked {gamertag} out of the party!",
+  "message.cloud.party.leadersOnly": "§c§l»§r§7 Only the party-leader can do this!",
   "ui.select_player.title": "Search a player",
   "ui.select_player.content": "",
   "ui.select_player.text": "",
@@ -165,6 +166,5 @@
   "ui.cloud.party.choose_invite.false": "No",
   "ui.cloud.party.manage_member.title": "Party member",
   "ui.cloud.party.manage_member.content": "Join {leader_gamertag}'s party?",
-  "ui.cloud.party.manage_member.kick": "Kick {gamertag}",
-  "ui.cloud.party.manage_member.promote": "Promote {gamertag} to leader"
+  "ui.cloud.party.manage_member.kick": "Kick a player"
 }
