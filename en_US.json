@@ -2,7 +2,7 @@
   "name": "English",
   "message.no_lobby_found": "§l§c»§r §7No lobby found!",
   "message.onlyForPlayers": "§l§c»§r §7Only for players!",
-  "message.connection": "§l§b»§r §7You are connected to proxy §j{proxy_address} §7on server §j{server_id}§7(§t{server_name}§7)",
+  "message.connection": "§l§b»§r §7You are connected to proxy §j{proxy_address} §7on server §j{server_id}§7(§t{server_alias}§7)",
   "message.connection.failed": "§c§l»§r §7Couldn't find a server to connect!",
   "message.server_is_starting": "§l§6»§r §7Starting.. {server_id} - {server_game_state} - {server_state} - {template_id} - {template_name} - {template_display_name} - {category_id} - {category_name} - {category_display_name}",
   "message.required.category.name": "§c§l»§r §7Category name is required!",
