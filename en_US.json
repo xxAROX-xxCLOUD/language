@@ -169,7 +169,8 @@
   "ui.cloud.party.choose_invite.content": "Join {leader_gamertag}'s party?",
   "ui.cloud.party.choose_invite.true": "Yes",
   "ui.cloud.party.choose_invite.false": "No",
-  "ui.cloud.party.manage_member.title": "Party member",
-  "ui.cloud.party.manage_member.content": "Join {leader_gamertag}'s party?",
-  "ui.cloud.party.manage_member.kick": "Kick a player"
+  "ui.cloud.party.manage_member.title": "Manage {gamertag}",
+  "ui.cloud.party.manage_member.content": "",
+  "ui.cloud.party.manage_member.promote": "Promote to leader",
+  "ui.cloud.party.manage_member.kick": "Kick"
 }
