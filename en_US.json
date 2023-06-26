@@ -136,7 +136,7 @@
   "message.cloud.party.disbanded": "§a§l»§r§7 Your party was disbanded!",
   "message.cloud.party.left": "§a§l»§r§7 You left the party!",
   "message.cloud.party.left.others": "§a§l»§r§7 {gamertag} left the party!",
-  "message.cloud.party.join": "§a§l»§r§7 You joined the party!",
+  "message.cloud.party.join": "§a§l»§r§7 You joined the party from {leader_gamertag}!",
   "message.cloud.party.join.others": "§a§l»§r§7 {gamertag} joined the party!",
   "message.cloud.party.kick": "§a§l»§r§7 You kicked {gamertag} out of the party!",
   "message.cloud.party.kick.others": "§a§l»§r§7 {leader_gamertag} kicked {gamertag} out of the party!",
