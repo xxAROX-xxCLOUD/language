@@ -151,6 +151,7 @@
   "ui.cloud.party.main.title": "",
   "ui.cloud.party.main.content": "",
   "ui.cloud.party.main.button.invite": "Invite a player",
+  "ui.cloud.party.main.button.transfer": "Transfer members",
   "ui.cloud.party.main.button.manage_players": "Manage members",
   "ui.cloud.party.main.button.disband": "§cDisband party",
   "ui.cloud.party.main.button.leave": "§cLeave party",
