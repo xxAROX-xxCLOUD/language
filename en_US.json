@@ -174,5 +174,11 @@
   "ui.cloud.party.manage_member.title": "Manage {gamertag}",
   "ui.cloud.party.manage_member.content": "",
   "ui.cloud.party.manage_member.promote": "Promote to leader",
-  "ui.cloud.party.manage_member.kick": "Kick"
+  "ui.cloud.party.manage_member.kick": "Kick",
+
+  "message.cloud.friends.request.accepted.self": "§a§l»§r§7 You accepted {gamertag}'s friend request!",
+  "message.cloud.friends.request.accepted": "§a§l»§r§7 {gamertag} accepted your friend request!",
+  "message.cloud.friends.request.denied.self": "§c§l»§r§7 You denied {gamertag}'s friend request!",
+  "message.cloud.friends.request.denied": "§c§l»§r§7 {gamertag} denied your friend request!",
+  "": ""
 }
