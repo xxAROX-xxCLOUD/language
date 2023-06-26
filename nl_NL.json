@@ -6,7 +6,7 @@
   "message.connection.failed": "§c§l»§r §7Kon geen server vinden om mee te verbinden!",
   "message.server_is_starting": "§l§6»§r §7Starten.",
   "message.required.category.name": "§c§l»§r §7Categorienaam is vereist!",
-  "message.required.template.name": "§c§l»§r §7Sjabloonnaam is verplicht!",
+  "message.required.template.name": "§c§l»§r §7Sjabloonnaam is vereist!",
   "message.created.category.successfully": "§a§l»§r §7Categorie met de naam {category_name} succesvol aangemaakt",
   "message.created.category.failed": "§a§l»§r §7Fout bij het maken van categorie {category_name}: §o{error}",
   "message.updated.category.successfully": "§a§l»§r §7Categorie met de naam {category_name} succesvol bijgewerkt",
