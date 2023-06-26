@@ -187,7 +187,6 @@
   "message.cloud.friends.removed.self": "§a§l»§r§7 You removed {gamertag} as your friend!",
   "message.cloud.friends.removed": "§c§l»§r§7 {gamertag} removed you as friend!",
   "message.cloud.friends.": "§a§l»§r§7 ",
-
   "ui.cloud.friends.main.title": "Friend menu",
   "ui.cloud.friends.main.content": "Please select an action.",
   "ui.cloud.friends.main.button.add": "Add a friend",
@@ -198,7 +197,6 @@
   "ui.cloud.friends.main.button.requests.outgoing.0": "§8Outgoing requests\n§8[§40§8]",
   "ui.cloud.friends.main.button.toggle_requests.on": "Incoming requests\n§2ENABLED",
   "ui.cloud.friends.main.button.toggle_requests.off": "Incoming requests\n§4DISABLED",
-
   "time.weeks": "weeks",
   "time.week": "week",
   "time.days": "days",
@@ -209,41 +207,32 @@
   "time.minute": "minute",
   "time.seconds": "seconds",
   "time.second": "second",
-
   "ui.cloud.friends.friends.title": "§l§2{online_count} ONLINE  §8|  §4{offline_count} OFFLINE",
   "ui.cloud.friends.friends.content": "",
   "ui.cloud.friends.friends.button.online": "§2{gamertag}\n§o§8Online at {server_display_name}",
   "ui.cloud.friends.friends.button.offline": "§4{gamertag}\n§o§8{last_seen}",
-  
   "ui.cloud.friends.manage_friend.title": "{gamertag}",
   "ui.cloud.friends.manage_friend.content": "",
   "ui.cloud.friends.manage_friend.jump_to": "Jump to {gamertag}'s server\n{server_display_name}",
   "ui.cloud.friends.manage_friend.remove": "§cRemove {gamertag} as friend",
-
   "ui.cloud.friends.friends.incoming.title": "Incoming friend requests",
   "ui.cloud.friends.friends.incoming.content.0": "Requests you receive will show up here, you have currently no pending requests.",
   "ui.cloud.friends.friends.incoming.content": "You have {count} open requests!",
   "ui.cloud.friends.friends.incoming.button.all.accept": "§2Accept all ({count})",
   "ui.cloud.friends.friends.incoming.button.all.deny": "§4Deny all ({count})",
   "ui.cloud.friends.friends.incoming.button.player": "§o{gamertag}",
-
   "ui.cloud.friends.friends.incoming.view.title": "Friend request from {gamertag}",
   "ui.cloud.friends.friends.incoming.view.content": "Do you wanna accept {gamertag}'s friend request?",
   "ui.cloud.friends.friends.incoming.view.true": "Yes",
   "ui.cloud.friends.friends.incoming.view.false": "No",
-
   "ui.cloud.friends.friends.outgoing.title": "Outgoing friend requests",
   "ui.cloud.friends.friends.outgoing.content.0": "Requests you send will show up here, you have currently no sent requests.",
   "ui.cloud.friends.friends.outgoing.content": "You have {count} pending requests!",
   "ui.cloud.friends.friends.outgoing.button.all.delete": "§cDelete all ({count})",
   "ui.cloud.friends.friends.outgoing.button.player": "§o{gamertag}\n§o§c(Click to delete request)",
-
   "ui.cloud.friends.remove.title": "Confirmation",
   "ui.cloud.friends.remove.content": "Are you sure to remove {gamertag} from your friends?",
   "ui.cloud.friends.remove.true": "§2Yes",
   "ui.cloud.friends.remove.false": "§4No",
-
-  "ui.cloud.friends.": "",
-
   "": ""
 }
