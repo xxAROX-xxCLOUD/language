@@ -212,7 +212,7 @@
   "ui.cloud.friends.friends.title": "§l§2{online_count} ONLINE  §8|  §4{offline_count} OFFLINE",
   "ui.cloud.friends.friends.content": "",
   "ui.cloud.friends.friends.button.online": "§2{gamertag}\n§o§8Online at {server_display_name}",
-  "ui.cloud.friends.friends.button.offline": "§4{gamertag}\n§o§8{last_seen}",
+  "ui.cloud.friends.friends.button.offline": "§4{gamertag}\n§o§8Last seen: {last_seen} ago",
   "ui.cloud.friends.manage_friend.title": "{gamertag}",
   "ui.cloud.friends.manage_friend.content": "",
   "ui.cloud.friends.manage_friend.jump_to": "Jump to {gamertag}'s server\n{server_display_name}",
