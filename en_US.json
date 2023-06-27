@@ -130,6 +130,7 @@
   "ui.cloud.template_inspect.content": "--- ------ --- - --- ------ ---\n\nid: {template_id}\ntype: {template_type}\nname: {template_name}\ndisplay_name: {template_display_name}\ngamemode: {template_gamemode}\ndefault_world_generator: {template_default_world_generator}\nenabled: {template_enabled}\nmaintenance: {template_maintenance}\nactive_servers: {template_active_servers}\nstart_amount: {template_start_amount}\nonline_players: {template_online_players}\nmax_players: {template_max_players}\nitem: {template_item}\nimage: {template_image}\nJoin permission: {template_join_permission}\nCustom server options: {template_custom_server_options}\n - Start permission: {template_custom_server_options_start_permission}\n\n--- ------ --- - --- ------ ---",
   "ui.cloud.template_inspect.start": "Start a server",
   "ui.cloud.template_inspect.stop_all": "Stop all servers",
+  "message.cloud.party.invite.deny": "§a§l»§r§7 You denied {leader_gamertag}'s party invite!",
   "message.cloud.party.invited": "§a§l»§r§7 You invited {gamertag}!",
   "message.cloud.party.invitation": "§a§l»§r§7 You have been invited to {gamertag}'s party!",
   "message.cloud.party.invited.other": "§a§l»§r§7 {leader_gamertag} invited {gamertag} to the party!",
