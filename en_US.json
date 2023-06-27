@@ -142,6 +142,7 @@
   "message.cloud.party.kick.others": "§a§l»§r§7 {leader_gamertag} kicked {gamertag} out of the party!",
   "message.cloud.party.leadersOnly": "§c§l»§r§7 Only the party-leader can do this!",
   "message.cloud.party.players_are_ingame": "§c§l»§r§7 Some players of your party are still ingame, please wait until the round ends or they lose!",
+  "message.cloud.party.full": "§c§l»§r§7 {gamertag}'s party is full!",
   "ui.select_player.title": "Search a player",
   "ui.select_player.content": "",
   "ui.select_player.text": "",
