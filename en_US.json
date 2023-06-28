@@ -1,5 +1,6 @@
 {
   "name": "English",
+  
   "message.no_lobby_found": "§l§c»§r §7No lobby found!",
   "message.onlyForPlayers": "§l§c»§r §7Only for players!",
   "message.connection": "§l§b»§r §7You are connected to proxy §j{proxy_address} §7on server §j{server_id}§7(§t{server_alias}§7)",
@@ -23,6 +24,7 @@
   "message.server.start.fail": "§c§l»§r §7Error while starting a new server: §o{error}",
   "message.server.stop.success": "§a§l»§r §7Successfully stopped §f{server_id}§7!",
   "message.server.stop.fail": "§c§l»§r §7Error while stopping {server_id}: §o{error}",
+  
   "ui.cloud.categories.title": "Cloud categories",
   "ui.cloud.categories.content": "Please select an action!",
   "ui.cloud.categories.button.create": "Create a category",
