@@ -239,5 +239,17 @@
   "ui.cloud.party.invite.friends.title": "Invite a friend to your party",
   "ui.cloud.party.invite.friends.content": "",
   "ui.cloud.party.invite.friends.button": "{gamertag}",
+  "message.already_connected": "§c§l»§r§7 You are already connected to that server!",
+  "message.already_connected.server": "§c§l»§r§7 You are already connected to {server_alias}!",
+  "message.player_not_found": "§c§l»§r§7 That player doesn't exists!",
+  "message.server_not_found": "§c§l»§r§7 That server doesn't exists!",
+  "message.player_not_online": "§c§l»§r§7 That player is not online!",
+  "ui.select_server.title": "Search a player",
+  "ui.select_server.content": "",
+  "ui.select_server.text": "",
+  "ui.select_server.placeholder": "Search query",
+  "ui.select_server_result.title": "Search server: {query}",
+  "ui.select_server_result.content": "",
+  "ui.select_server_result.row": "{server_alias}",
   "": ""
 }
