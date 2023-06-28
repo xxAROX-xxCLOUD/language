@@ -251,5 +251,7 @@
   "ui.select_server_result.title": "Search server: {query}",
   "ui.select_server_result.content": "",
   "ui.select_server_result.row": "{server_alias}",
+  "message.cloud.party.chat.toggled.on": "§a§l»§r§7 Party chat is§2 enabled§7, all messages you sent will be redirected straight into the party-chat!",
+  "message.cloud.party.chat.toggled.off": "§a§l»§r§7 Party chat is§c disabled§7, all players can see your messages now!",
   "": ""
 }
