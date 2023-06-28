@@ -236,5 +236,8 @@
   "ui.cloud.friends.remove.content": "Are you sure to remove {gamertag} from your friends?",
   "ui.cloud.friends.remove.true": "§2Yes",
   "ui.cloud.friends.remove.false": "§4No",
+  "ui.cloud.party.invite.friends.title": "Invite a friend to your party",
+  "ui.cloud.party.invite.friends.content": "",
+  "ui.cloud.party.invite.friends.button": "{gamertag}",
   "": ""
 }
