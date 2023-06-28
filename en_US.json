@@ -262,7 +262,7 @@
   "ui.select_server_result.content": "",
   "ui.select_server_result.row": "{server_alias}",
   "ui.cloud.joinme.title": "§eJoinME",
-  "ui.cloud.joinme.content": "",
+  "ui.cloud.joinme.content": "There are {count} joinmes:",
   "ui.cloud.joinme.button.create": "§2Create JoinME\n§8§o(Click to create)§r",
   "ui.cloud.joinme.button.create.cooldown": "§4Create JoinME\n§8§o(Please wait %time_left%)§r",
   "ui.cloud.joinme.button": "§6{gamertag} is playing {template_display_name}§r\n§8§o(Click to connect)§r",
