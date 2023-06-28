@@ -13,6 +13,7 @@
   "time.second": "second",
 
   "message.no_lobby_found": "§l§c»§r §7No lobby found!",
+  "message.missing_permission": "§l§c»§r §7You don't have the permission to do that!",
   "message.onlyForPlayers": "§l§c»§r §7Only for players!",
   "message.connection": "§l§b»§r §7You are connected to proxy §j{proxy_address} §7on server §j{server_id}§7(§t{server_alias}§7)",
   "message.connection.failed": "§c§l»§r §7Couldn't find a server to connect!",
@@ -68,6 +69,10 @@
   "message.cloud.party.chat.toggled.off": "§a§l»§r§7 Party chat is§c disabled§7, all players can see your messages now!",
   "message.cloud.friends.full": "§c§l»§r§7 You reached your friend limit of {limit} friends, buy a higher rank avoid this!",
   "message.cloud.friends.full.other": "§c§l»§r§7 {gamertag} reached his/her friend limit!",
+  "message.cloud.joinme": "§l§u» §r§7{gamertag} is playing {template_display_name}§r\n§l§g» §r§7Type '/joinme' to join-by!",
+  "message.cloud.joinme.no_actives": "§c§l»§r§7 There are no active joinme's right now, try again later!",
+  "message.cloud.joinme.cooldown.expired": "§l§a» §r§7You can now create a new JoinME!",
+  "message.cloud.joinme.created": "§l§a» §r§7You create a JoinME for {template_display_name}!",
 
   "ui.cloud.categories.title": "Cloud categories",
   "ui.cloud.categories.content": "Please select an action!",
