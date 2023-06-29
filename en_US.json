@@ -74,6 +74,10 @@
   "message.cloud.joinme.cooldown.expired": "§l§a» §r§7You can now create a new JoinME!",
   "message.cloud.joinme.created": "§l§a» §r§7You create a JoinME for {template_display_name}!",
   "message.missing_permission.connect": "§l§c» §r§7You are not allowed to connect to {template_display_name}§r§7.",
+  "message.cloud.custom_server.starting": "§l§e»§r §7Your custom-server is starting..",
+  "message.cloud.custom_server.started": "§l§a»§r §7Your custom-server is online!",
+  "message.cloud.custom_server.connecting": "§l§a»§r §7You will be transferred soon!",
+  "message.cloud.custom_server.error": "§c§oError while starting your custom server: {error}",
 
   "ui.cloud.categories.title": "Cloud categories",
   "ui.cloud.categories.content": "Please select an action!",
@@ -270,5 +274,12 @@
   "ui.cloud.joinme.button.create.cooldown": "§4Create JoinME\n§8§o(Please wait %time_left%)§r",
   "ui.cloud.joinme.button": "§6{gamertag} is playing {template_display_name}§r\n§8§o(Click to connect)§r",
   "ui.cloud.joinme.button.already": "§6{gamertag} is playing {template_display_name}§r\n§c§o(Already connected)§r",
+  "ui.cloud.custom_server.main.title": "Custom server",
+  "ui.cloud.custom_server.main.content": "",
+  "ui.cloud.custom_server.main.button.manage": "Edit custom-server settings",
+  "ui.cloud.custom_server.main.button.start": "Start custom-server",
+  "ui.cloud.custom_server.main.button.join_via_code.0": "§4Join via code\n§o§cNo servers to join",
+  "ui.cloud.custom_server.main.button.join_via_code": "§2Join via code",
+  "ui.cloud.custom_server.main.button.public": "Public servers\n{count}",
   "": ""
 }
