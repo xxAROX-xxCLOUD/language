@@ -280,6 +280,6 @@
   "ui.cloud.custom_server.main.button.join_via_code.0": "§4Join via code\n§o§cNo servers to join",
   "ui.cloud.custom_server.main.button.join_via_code": "§2Join via code",
   "ui.cloud.custom_server.main.button.public": "Public servers\n{count}",
-  "ui.button.player": "{gamertag}"
+  "ui.button.player": "{gamertag}",
   "": ""
 }
