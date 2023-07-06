@@ -194,7 +194,6 @@
   "ui.select_player.placeholder": "Gamertag",
   "ui.select_player_result.title": "Search player: {query}",
   "ui.select_player_result.content": "",
-  "ui.select_player_result.row": "{gamertag}",
   "ui.cloud.party.main.title": "",
   "ui.cloud.party.main.content": "",
   "ui.cloud.party.main.button.invite": "Invite a player",
@@ -281,5 +280,6 @@
   "ui.cloud.custom_server.main.button.join_via_code.0": "§4Join via code\n§o§cNo servers to join",
   "ui.cloud.custom_server.main.button.join_via_code": "§2Join via code",
   "ui.cloud.custom_server.main.button.public": "Public servers\n{count}",
+  "ui.button.player": "{gamertag}"
   "": ""
 }
