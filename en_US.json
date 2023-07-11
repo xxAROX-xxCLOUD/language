@@ -283,6 +283,5 @@
   "ui.button.player": "{gamertag}",
   "ui.cloud.lobbies.title": "Lobbies",
   "ui.cloud.lobbies.content": "",
-  "ui.cloud.lobbies.content.0": "There are no lobbies online right now!",
   "": ""
 }
