@@ -281,5 +281,7 @@
   "ui.cloud.custom_server.main.button.join_via_code": "§2Join via code",
   "ui.cloud.custom_server.main.button.public": "Public servers\n{count}",
   "ui.button.player": "{gamertag}",
+  "ui.cloud.lobbies.title": "Lobbies",
+  "ui.cloud.lobbies.content": "",
   "": ""
 }
