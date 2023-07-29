@@ -1,6 +1,9 @@
 {
   "name": "English",
 
+  "ui.button.category": "{category_display_name}§r\n§o§a{category_online_players} playing",
+  "ui.button.template": "{template_display_name}§r\n§o§a{template_online_players} playing",
+
   "time.weeks": "weeks",
   "time.week": "week",
   "time.days": "days",
